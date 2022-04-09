@@ -1,0 +1,368 @@
+
+
+
+.body {
+    min-width: 980px;
+    
+}
+
+.container {
+    width: 1010px;
+    margin: 0px auto;
+    padding: 0px 15px;
+}
+
+
+/* Шапка ==================================================*/
+.header {
+    font-weight: bold;
+    width: 980px;
+    position: fixed;
+    background-color: rgb(255, 255, 255);
+    padding: 13px;
+    border-bottom: 4px solid rgb(45, 49, 49);
+}
+.nav_link {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    margin-left: 72px;
+    color: rgb(24, 23, 23);
+    text-transform: uppercase;
+    text-decoration: none;
+    opacity: .75;
+}
+
+.nav_link:hover {
+    text-decoration: underline;
+    
+}
+
+/* Кофеееееееееееееее================================ */
+
+.photo-baner {
+    margin-top: 60px;
+    margin-left: 5.5%;
+}
+
+.box__coffee {
+   margin-top: 90px;
+
+}
+.container-coffee {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.blok_photo {
+   width: 336px;
+   
+}
+
+
+.photo-coffee {
+  margin-left: 6%;
+  padding-top: 10px;
+  font-family: 'Roboto', sans-serif;
+} 
+
+.price {
+    font-family: fantasy;
+    color: darkred;
+    margin-left: 140px;
+    width: 20%;
+}
+
+.name {
+    font-family: 'Roboto', sans-serif;
+    color:rgba(73, 64, 64, 0.384);
+
+    margin-left: 130px; 
+    width: 20%;  
+}
+
+.title-inner {
+    
+    left: 100px;
+    left: 100px;
+    border: 2px solid rgba(73, 64, 64, 0.384);
+    margin-top: 10px;
+    width: 80%;
+    margin-left: 10%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
+    text-align:center;
+}
+
+
+   /*Coffeemachines ========================= */
+   .machines-top {
+    
+    margin-bottom: 50px;
+    background-color: rgb(255, 255, 255);
+    padding: 25px;
+    border-bottom: 5px solid rgb(184, 187, 187);
+    width: 980px;
+    
+}  
+
+
+
+.machines-2 {
+    margin-top: 50px;
+
+}
+
+.photo_coffemach {
+    margin-top:60px ;
+}
+
+.price-machin {
+    margin-left: 50%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color: rgb(53, 51, 51);
+    
+}
+
+.title1 {
+    margin-left: 10%;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    color: rgb(53, 51, 51); 
+    
+}
+
+.title2 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    color: rgb(53, 51, 51); 
+    
+}   
+
+.photo-cofmach-rent {
+    margin-left: 47%;
+}
+
+/* ABOUT US ============================= */
+
+.about-as {
+    border-top: 5px solid rgb(184, 187, 187);
+    margin-top: 10px;
+    width: 998px;
+    height: 30px;
+    background-color: #fff;
+    text-decoration: none;
+}
+
+
+.taitle-about {
+    color: rgb(24, 23, 23);
+    font-size: 25px; 
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-top: 70px;
+}
+.text-aboutas {
+    width: 45%;
+    margin-left:10%;
+    padding-right:30px;
+    
+    color: rgb(24, 23, 23);
+    font-size: 15px; 
+    font-family: 'Roboto', sans-serif;
+    
+}
+.about-as-inner {
+    margin-top: 30px;
+    display: flex;
+    height: 700px;
+    width: 980px;
+   
+}
+.text2 {
+    margin-left: 65%;
+    font-size: 15px; 
+    font-family: 'Roboto', sans-serif;
+    color: rgb(24, 23, 23);
+    margin-top: 30px;
+    padding-bottom: 30px;
+} 
+
+/* Footer============================= */
+
+.footer {
+    padding: 70px 0;
+    height: 100px;
+    width: 1010px;
+    
+    background-color:rgb(184, 187, 187);
+
+}  
+
+.footre-inner {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer-block {
+width: 33%;
+text-align: center;
+}
+
+.footre-title {
+    margin-bottom: 10px;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: rgb(24, 23, 23);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+
+}
+
+.adress {
+ 
+    font-size: 10px;
+    color: rgb(255, 255, 255);
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+}
+
+.sotial-item2 {
+    width: 25px;
+    height: 25px;
+}
+
+.adress33 {
+    
+    color: rgb(255, 255, 255);
+    font-size: 10px;
+  
+
+}
+
+/* ============================= */
+.footer-lou {
+    height: 50px;
+    background-color: rgb(74, 79, 82);
+    width: 1010px;
+    text-align: center;
+    margin-top: 2px;
+    padding-top: 15px;
+}
+
+
+/* contacts.html */
+
+.conainer_contacts {
+    height: 700px;
+    width: 1010px;
+    margin: 0px auto;
+    padding: 0px 15px;
+}
+
+.title_contact {
+    
+
+  
+
+}
+
+
+.block_contacts {
+    background-color:rgb(184, 187, 187);
+    display: flex;
+    margin-top: 5%;
+    
+
+}
+
+.block_info {
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    width: 336px;
+    margin-top: 30px;
+}
+
+
+.info_us {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.text_us {
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    font-size: 12px;
+}
+
+
+.adress34 {
+    font-family: 'Roboto', sans-serif;  
+    font-size:small;
+    color: rgb(255, 255, 255);
+    font-size: 10px;
+
+  
+}
+
+.welcom {
+    font-family: 'Roboto', sans-serif;  
+    font-size: 12px;
+    color: rgb(255, 255, 255);
+}
+
+
+/* container_coffee=====================*/
+
+.container_coffee {
+    width: 1010px;
+    margin: 0px auto;
+    padding: 0px 15px; 
+}
+
+
+/* container_news=====================*/
+.container_news {
+    height: 1200px;
+    width: 1010px;
+}
+.news_title {
+    padding-top: 20%;
+    text-align: center;
+
+    
+    
+    
+  
+}
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+   
+    
+
+
+
+
+
+
+
+
+
+
+    
