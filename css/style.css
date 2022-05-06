@@ -2,7 +2,7 @@
 
 
 .body {
-    min-width: 980px;
+    min-width: 9px;
     
 }
 
@@ -25,7 +25,7 @@
 .nav_link {
     font-family: 'Roboto', sans-serif;
     font-size: 15px;
-    margin-left: 72px;
+    margin-left: 65px;
     color: rgb(24, 23, 23);
     text-transform: uppercase;
     text-decoration: none;
